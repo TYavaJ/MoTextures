@@ -1,0 +1,44 @@
+
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "metal_orange.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 0,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": false,
+    "flipToLight_Y": false,
+    "metalTexture": true,
+    "icon": null
+  },
+  "tags": [
+    "tank",
+    "cone",
+    "fairing"
+  ],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "metal_orange",
+  "hideFlags": 0
+}

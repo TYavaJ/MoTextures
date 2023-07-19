@@ -1,0 +1,39 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "silver_foil.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "center": {
+      "mode": 1,
+      "sizeMode": 1,
+      "size": 10,
+      "logoHeightPercent": 1,
+      "scaleLogoToFit": true
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 0,
+    "flipToLight_X": false,
+    "flipToLight_Y": false,
+    "metalTexture": false,
+    "icon": null
+  },
+  "tags": [],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "silver_foil",
+  "hideFlags": 0
+}
