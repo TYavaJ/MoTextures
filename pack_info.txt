@@ -1,0 +1,10 @@
+{
+  "DisplayName": "MoreTextures",
+  "Version": "1.0",
+  "Description": "The world's largest SFS texture pack, by far.\n\nTYavaJ on Discord for suggestions.",
+  "Author": "TYavaJ",
+  "ShowIcon": false,
+  "Icon": null,
+  "name": "",
+  "hideFlags": 0
+}
